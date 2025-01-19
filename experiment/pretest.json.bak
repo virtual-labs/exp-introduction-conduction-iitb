@@ -1,0 +1,56 @@
+[
+   {
+      "question": "A slab can be approximated to an Infinite slab when",
+      "qid": 1,
+      "option_a": "L>W>b",
+      "option_b": "L and W >>>b",
+      "option_c": "L=W=b",
+      "option_d": "L&ne;W&ne;b",
+      "correct_option": "c"
+   },
+   {
+      "question": "The term Infinite slab implies that, the heat flow is",
+      "qid": 2,
+      "option_a": "steady",
+      "option_b": "unidirectional",
+      "option_c": "maximum",
+      "option_d": "minimum",
+      "correct_option": "a"
+   },
+   {
+      "question": "The formula for an Infinite slab assumes that heat flow is",
+      "qid": 3,
+      "option_a": "steady",
+      "option_b": "K = constant",
+      "option_c": "unidirectional",
+      "option_d": "All",
+      "correct_option": "b"
+   },
+   {
+      "question": "The area ‘A’ in the above formula is",
+      "qid": 4,
+      "option_a": "surface area",
+      "option_b": "normal to the heat flow",
+      "option_c": "cross sectional area",
+      "option_d": "None",
+      "correct_option": "b"
+   },
+   {
+      "question": "Heat flux means, heat flow per",
+      "qid": 5,
+      "option_a": "unit time",
+      "option_b": "unit area",
+      "option_c": "unit temperature difference",
+      "option_d": "unit thickness",
+      "correct_option": "b"
+   },
+   {
+      "question": "The rate of heat flow through an Infinite slab is maximum when hot surface is",
+      "qid": 6,
+      "option_a": "to the left",
+      "option_b": "to the right",
+      "option_c": "on the top",
+      "option_d": "on the bottom",
+      "correct_option": "b"
+   }
+]

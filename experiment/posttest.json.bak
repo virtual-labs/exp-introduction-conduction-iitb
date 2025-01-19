@@ -1,0 +1,47 @@
+[
+   {
+      "question": "The rate of heat flow through an Infinite slab is inversely proportional to",
+      "qid": 1,
+      "option_a": "conductivity",
+      "option_b": "thickness",
+      "option_c": "area",
+      "option_d": "none",
+      "correct_option": "c"
+   },
+   {
+      "question": "To reduce the rate of heat flow effectively, the thickness should be increased towards",
+      "qid": 2,
+      "option_a": "hot surface",
+      "option_b": "cold surface",
+      "option_c": "centrally",
+      "option_d": "anywhere",
+      "correct_option": "a"
+   },
+   {
+      "question": "If the temperatures of both surfaces are increased by same amount then the heat flow rate",
+      "qid": 3,
+      "option_a": "increases",
+      "option_b": "decreases",
+      "option_c": "remains same",
+      "option_d": "none",
+      "correct_option": "b"
+   },
+   {
+      "question": "Temperature variation between hot and cold surface of slab is",
+      "qid": 4,
+      "option_a": "linear",
+      "option_b": "parabolic",
+      "option_c": "exponential",
+      "option_d": "None",
+      "correct_option": "b"
+   },
+   {
+      "question": "If thickness of slab is doubled then the heat flow rate becomes",
+      "qid": 5,
+      "option_a": "double",
+      "option_b": "half",
+      "option_c": "square",
+      "option_d": "none",
+      "correct_option": "b"
+   }
+]
