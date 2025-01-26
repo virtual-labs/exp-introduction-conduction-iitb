@@ -1,12 +1,25 @@
-<h2>Theory:</h2>
+<img src="./images/th1.jpg" style="width:100%">
 
-<p>
-   &emsp;The Cartesian co ordinate system has three axes namely X, Y and Z. The heat flow in the direction of any one of these axes is called unidirectional heat flow. The object through which such heat flow is observed is termed as infinite slab. <br><br>
-	&emsp;Specifically, the slab in which, heat flow is only along its thickness is treated as infinite slab.<br><br>
-	&emsp;The walls of boiler house, furnaces, cold chambers, ovens are approximated to an infinite slab.<br><br> 
-	&emsp;Fourier’s law, when applied to steady state conditioned, unidirectional heat flow along X axis with constant conductivity, results in the formula for infinite slab as
-</p>
+<img src="./images/th2.jpg" style="width:100%">
 
-$$
-   q = \frac{KA(T_1 - T_2)}{b}
-$$<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
+<img src="./images/th3.jpg" style="width:100%">
+
+<img src="./images/th4.jpg" style="width:100%">
+
+<img src="./images/th5.jpg" style="width:100%">
+
+<img src="./images/th6.jpg" style="width:100%">
+
+<img src="./images/th7.jpg" style="width:100%">
+
+<img src="./images/th8.jpg" style="width:100%">
+
+<img src="./images/th9.jpg" style="width:100%">
+
+<img src="./images/th10.jpg" style="width:100%">
+
+<img src="./images/th11.jpg" style="width:100%">
+
+<img src="./images/th12.jpg" style="width:100%">
+
+<img src="./images/th13.jpg" style="width:100%"><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
