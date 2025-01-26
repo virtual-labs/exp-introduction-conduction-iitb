@@ -9,7 +9,7 @@
       "correct_option": "b"
    },
    {
-      "question": "A hollow cylinder L = 1 m long, the inner and outer surface temperature are 104°C and 28°C.If the inner and outer radii are r1 = 4.4 cm & r2 = 11.1 cm. Take conductivity of material 22W/m-K. Find the log mean area $$ Ae = \\frac{2 \\pi L (r_2 - r_1)}{ln\\left(\\frac{r_2}{r_1})\\right} $$",
+      "question": "A hollow cylinder L = 1 m long, the inner and outer surface temperature are 104°C and 28°C.If the inner and outer radii are r1 = 4.4 cm & r2 = 11.1 cm. Take conductivity of material 22W/m-K. Find the log mean area $$ Ae = \\frac{2 \\pi L (r_2 - r_1)}{ln\\left(\\frac{r_2}{r_1}\\right)} $$",
       "qid": 2,
       "option_a": "$$ 0.425 \\ m^2 $$",
       "option_b": "$$ 0.487 \\ m^2 $$",
